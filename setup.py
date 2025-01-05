@@ -18,7 +18,7 @@ with open("README.md", "r", encoding="utf-8") as f:
 # Required dependencies
 REQUIRED_PACKAGES = [
         "numpy>=1.19.5",
-        "intel-tensorflow",
+        #"intel-tensorflow",
         "keras==2.4.3",
         "mtcnn",
         "pillow>=7.0.0",
