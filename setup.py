@@ -29,6 +29,7 @@ REQUIRED_PACKAGES = [
         "mediapipe",
         "tqdm",
         "scikit-learn",
+        'opencv-python-headless',
 ]
 
 # Setup configuration
