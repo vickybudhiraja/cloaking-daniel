@@ -25,7 +25,7 @@ REQUIRED_PACKAGES = [
         "bleach>=2.1.0",
         "matplotlib",
         "onnx",
-        # "onnx2keras",
+        "onnx2keras",
         "mediapipe",
         "tqdm",
         "scikit-learn",
