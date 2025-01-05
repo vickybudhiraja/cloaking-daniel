@@ -42,7 +42,7 @@ setup(
     author=AUTHOR,
     author_email=AUTHOR_EMAIL,
     license=LICENSE,
-    packages=find_packages(),
+    #packages=find_packages(),
     install_requires=REQUIRED_PACKAGES,
     python_requires=">=3.10.0",
 )
