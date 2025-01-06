@@ -33,6 +33,7 @@ REQUIRED_PACKAGES = [
         "scikit-learn",
         # "tensorflow==2.15.1",
         "tensorflow",
+        "tblib",
 ]
 
 # Setup configuration
