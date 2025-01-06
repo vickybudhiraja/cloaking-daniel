@@ -32,7 +32,7 @@ REQUIRED_PACKAGES = [
         "tqdm",
         "scikit-learn",
         # "tensorflow==2.15.1",
-        "intel-tensorflow==2.4.0",
+        # "intel-tensorflow==2.4.0",
         # "tensorflow",
         # "tblib",
 ]
