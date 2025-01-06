@@ -31,7 +31,8 @@ REQUIRED_PACKAGES = [
         "mediapipe",
         "tqdm",
         "scikit-learn",
-        "tensorflow==2.15.1",
+        # "tensorflow==2.15.1",
+        "tensorflow",
 ]
 
 # Setup configuration
